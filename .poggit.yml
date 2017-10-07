@@ -4,4 +4,5 @@ branches:
 projects:
   ItemCloud:
     path: ""
+    icon: ItemCloud.png
 ...
