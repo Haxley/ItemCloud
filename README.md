@@ -1,7 +1,7 @@
 # ItemCloud
 ## The PocketMine-MP plugin which provides item cloud service to PocketMine and EconomyPShop.
 
-#### Fixed by Haxley for v1.2 "Better Together" update. Also ```/itemcloud list``` now displays item names instead of IDs.
+#### Fixed by Haxley for v1.2 "Better Together" update. Also, ```/itemcloud list``` now displays item names instead of IDs.
 
 ItemCloud Commands:
 
