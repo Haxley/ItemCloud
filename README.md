@@ -1,9 +1,9 @@
 # ItemCloud
 ## The PocketMine-MP plugin which provides item cloud service to PocketMine and EconomyPShop.
 
-#### Fixed by Haxley for v1.2 "Better Together" update. Also, ```/itemcloud list``` now displays item names instead of IDs.
+##### Fixed by Haxley for v1.2 "Better Together" update. Also, ```/itemcloud list``` now displays item names instead of IDs.
 
-ItemCloud Commands:
+#### ItemCloud Commands:
 
 ```/itemcloud register``` : You MUST use this command before using the service.
 
@@ -14,3 +14,10 @@ ItemCloud Commands:
 ```/itemcloud list``` : You can see the list of all items in your account.
 
 ```/itemcloud count <item id>``` : You can see the amount you have of a specific item.
+
+
+#### Recommended Associated Plugins:
+
+EconomyPShop: Let players on your server make shops, which sell items stored in ItemCloud.
+
+EssentialsPE: The ```/itemdb id``` command in Essentials is great for quickly finding an item's ID in-game. 
