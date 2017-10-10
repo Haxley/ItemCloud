@@ -180,7 +180,8 @@ class MainClass extends PluginBase implements Listener{
 						}
 						$output = "[ItemCloud] Item list : \n";
 						foreach($this->clouds[$name]->getItems() as $item => $count){
-							$output .= "$item : $count\n";
+							$itemName = Item::get((int)$item)->getName();
+							$output .= "$itemName : $count\n";
 						}
 						$sender->sendMessage($output);
 						break;
